@@ -67,6 +67,7 @@
                 android:resource="@xml/file_paths"/>
         </provider>
 
+        <!--zqs  meta-data 配置数据，用于GlobalUtil.getApplicationMetaData("APP_CHANNEL") 获取到对应的值-->
         <meta-data
             android:name="APP_CHANNEL"
             android:value="opensource"/>

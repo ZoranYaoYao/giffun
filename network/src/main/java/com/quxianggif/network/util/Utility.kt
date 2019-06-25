@@ -32,6 +32,8 @@ import java.util.*
  *
  * @author guolin
  * @since 17/2/14
+ *
+ * zqs 获取基础数据的工具类!!
  */
 object Utility {
 
@@ -75,6 +77,8 @@ object Utility {
 
     /**
      * 获取App网络请求验证参数，用于辨识是不是官方渠道的App。
+     *
+     * zqs 属性固定get()的方法
      */
     val appSign: String
         get() {

@@ -36,6 +36,8 @@ import com.quxianggif.util.UserUtil
  *
  * @author guolin
  * @since 17/3/10
+ *
+ *
  */
 abstract class AuthActivity : BaseActivity() {
 
